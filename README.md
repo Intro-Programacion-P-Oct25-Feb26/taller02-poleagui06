@@ -130,10 +130,10 @@ git push
 
 24. Sincronizar cambios a la Máquina Local (Usando git pull)
 * Regresar a Git-Bash en tu máquina local (dentro de la carpeta clonada)
-# Cambio en GitHub
-* Este cambio fue hecho directamente en GitHub
 * Analizar la salida en consola: Git mostrará que ha descargado un commit y ha fusionado (merged) los cambios en tu rama local.
 
 25. Verificar la integración del Cambio
 
 * Abrir el archivo README.md y verificar que la línea que agregaste en GitHub
+# Cambio en GitHub
+* Este cambio fue hecho directamente en GitHub
